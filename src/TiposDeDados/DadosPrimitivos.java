@@ -23,6 +23,6 @@ public class DadosPrimitivos {
         System.out.println(altura);
         System.out.println("Saldo Bancario é: " + saldoBancario);
         System.out.println("Minha idade é: " + idade);
-        
+
     }
 }
