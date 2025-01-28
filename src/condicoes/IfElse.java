@@ -32,6 +32,6 @@ public class IfElse {
             System.out.println("Rank: Gennim");
         }
 
-        
+
     }
 }
