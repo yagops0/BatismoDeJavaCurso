@@ -1,4 +1,4 @@
-package condicoes;
+package nivelFacil.condicoes;
 
 public class IfElse {
     public static void main(String[] args) {

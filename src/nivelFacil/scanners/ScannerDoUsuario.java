@@ -1,4 +1,4 @@
-package scanners;
+package nivelFacil.scanners;
 
 import java.util.Scanner;
 

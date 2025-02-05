@@ -1,4 +1,4 @@
-package TiposDeDados;
+package nivelFacil.TiposDeDados;
 
 public class DadosNãoPrimitivos {
     public static void main(String[] args) {

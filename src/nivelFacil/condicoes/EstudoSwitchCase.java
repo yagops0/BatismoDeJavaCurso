@@ -1,4 +1,4 @@
-package condicoes;
+package nivelFacil.condicoes;
 
 import java.util.Scanner;
 
